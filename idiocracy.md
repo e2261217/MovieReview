@@ -1,0 +1,1 @@
+![Idiocracy](/idiocracy.jpg)
