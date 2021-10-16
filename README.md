@@ -1,0 +1,2 @@
+# MovieReview
+![Idiocracy](/idiocracy.jpg)
